@@ -1,0 +1,159 @@
+.btn-primary{
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 15px;
+    border:0;
+    /* padding: 21px 25px; */
+   
+    width: 180px;
+    height: 64px;
+
+    border-radius: 5px;
+    background: #fd6e0a;
+    
+
+}
+.container{
+    text-align: center;
+    /* padding: 10px; */
+    margin-bottom: 30px;
+}
+
+
+
+header{
+
+/* position: absolute; */
+text-align: center;
+width: 1920px;
+height: 1322px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 144, 14, 0.1);
+display: flex;
+/* justify-content: space-between; */
+padding: 63px;
+background-position: center;
+ background-repeat: no-repeat;
+
+ 
+}
+header h1{
+  /* font-style: normal;
+
+
+
+    position: absolute; */
+width: 302px;
+height: 53px;
+left: 228px;
+top: 50px;
+
+color: #131313;
+text-align: left;
+}
+header nav ul{
+   
+    justify-content: space-between;
+    display:flex;
+   
+    align-items:center;
+    width: 500px;
+    font-size: 18px;
+    list-style: none;
+    margin-left: 50px;
+   
+}
+
+
+
+/* 
+.content img{
+    position: absolute;
+width: 1440px;
+height: 700px;
+left: 240px;
+
+
+} */
+
+section{
+    margin-top: 130px;
+    
+}
+/* about section styles */
+/* position: absolute;
+width: 862px;
+height: 225px;
+left: 529px;
+top: 205px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 75px;
+text-align: center; */
+
+/* Dark 01 */
+
+/* color: #131313; */
+.content1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
+
+    position: absolute;
+width: 862px;
+height: 225px;
+left: 529px;
+top: 205px;
+}
+.content img{
+    /* width: 56px;
+    height: 56px; */
+
+    /* position: absolute; */
+width: 1440px;
+height: 700px;
+/* left: 240px;
+top: 567px; */
+
+/* background: url(group-three-modern-architects.jpg);
+border-radius: 8px; */
+
+}
+/* .group1-title{
+    
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
+    
+
+} */
+.section-description{
+    text-align: center;
+    color: #727272;
+    font-size: 12px;
+    /* margin-bottom: 30px; */
+    padding: 10px;
+
+}
+
+.resume{
+   
+
+}
+.section-title{
+    display: flex;
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px;
+}
+.description{
+    font-size: 10px;
+}
