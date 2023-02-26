@@ -54,6 +54,12 @@ body {
   text-align: right;
   font-size: 13px;
 }
+
+.header-nav li a {
+  text-decoration: none;
+  color: #424242;
+}
+
 .group h1 {
   padding-top: 100px;
   text-align: center;
@@ -87,7 +93,7 @@ body {
 }
 
 .main {
-  background-image: url(/images/banner.png);
+  background-image: url('../images/banner.png');
   max-width: 1260px;
   width: 100%;
   margin: 0 auto;
